@@ -12,6 +12,7 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 1
 2
 3
+4
 
 	do not share these files/folders if you want these information to remain private
 
