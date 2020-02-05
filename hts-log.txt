@@ -1,0 +1,349 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 01 Feb 2020 22:06:50 at http://www.suu.kr +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+
+(winhttrack -qwr10%e3C2%Ps2u1%s%uN0%I0p7DaK0R3H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.suu.kr -O1 "D:\suu.kr" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+
+	such as username/password authentication for websites mirrored in this project
+1
+
+	do not share these files/folders if you want these information to remain private
+
+
+
+22:19:06	Error: 	"Not Found" (404) at link www.suu.kr/bbs/%2Fbbs%2Fcurrent_connect.php (from www.suu.kr/bbs/current_connect.php)
+
+22:19:06	Error: 	"Not Found" (404) at link www.suu.kr/bbs/%2Fbbs%2Ffaq.php (from www.suu.kr/bbs/faq.php)
+
+22:19:06	Error: 	"Not Found" (404) at link www.suu.kr/bbs/%2Fbbs%2Fgroup.php (from www.suu.kr/bbs/group.php)
+
+22:19:07	Error: 	"Not Found" (404) at link www.suu.kr/page/%2Fpage%2Fcookie_latest_list.php (from www.suu.kr/page/cookie_latest_list.php)
+
+22:19:07	Error: 	"Not Found" (404) at link https://www.suu.kr/multi/%2Fmulti%2Fmulti_upload.php (from https://www.suu.kr/multi/multi_upload.php)
+
+22:19:08	Error: 	"Not Found" (404) at link https://www.suu.kr/test/%2Ftest%2Fimage_view.php (from https://www.suu.kr/test/image_view.php)
+
+22:19:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+
+22:19:47	Warning: 	HTML file (14333 bytes) retransferred due to lack of cache: www.suu.kr/bbs/register.php
+
+22:19:56	Warning: 	HTML file (6745 bytes) retransferred due to lack of cache: www.suu.kr/map/
+
+22:19:56	Warning: 	HTML file (22807 bytes) retransferred due to lack of cache: www.suu.kr/bbs/?C=N;O=D
+
+22:19:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): dapi.kakao.com/v2/maps/sdk.js?appkey=44c20562a8df72e24749033d037f013b&libraries=services,clusterer,drawing
+
+22:19:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.suu.kr/plugin/syntaxhighlighter/syntaxhighlighter.js.map?ver=
+
+22:19:58	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.suu.kr/bbs/_common.php
+
+22:19:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.suu.kr/plugin/syntaxhighlighter/syntaxhighlighter.js.map?ver=1000
+
+22:20:15	Warning: 	HTML file (33277 bytes) retransferred due to lack of cache: www.suu.kr/bbs/board.php?bo_table=notice
+
+22:20:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.4.6/js/swiper.min.js
+
+22:20:26	Warning: 	HTML file (31676 bytes) retransferred due to lack of cache: www.suu.kr/bbs/board.php?bo_table=JTBC&wr_id=727
+
+22:20:28	Warning: 	HTML file (2783 bytes) retransferred due to lack of cache: www.suu.kr/bbs/memo_form.php?me_recv_mb_id=admin
+
+22:20:28	Warning: 	HTML file (15502 bytes) retransferred due to lack of cache: www.suu.kr/bbs/faq.php?device=pc
+
+22:20:30	Warning: 	HTML file (48284 bytes) retransferred due to lack of cache: www.suu.kr/bbs/board.php?bo_table=notice&wr_id=115&device=pc
+
+22:20:33	Warning: 	HTML file (26446 bytes) retransferred due to lack of cache: www.suu.kr/bbs/board.php?bo_table=notice&wr_id=71&device=pc
+
+22:20:34	Warning: 	HTML file (4007 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=notice&fn=2000880543_ZmVt2oHl_66c228e4a18c7c1db1fd0dad35520cfc75892b15.png
+
+22:20:35	Warning: 	HTML file (48305 bytes) retransferred due to lack of cache: www.suu.kr/bbs/board.php?bo_table=notice&wr_id=67&c_id=86&w=c
+
+22:20:39	Warning: 	HTML file (20487 bytes) retransferred due to lack of cache: https://www.suu.kr/bbs/board.php?bo_table=qa&device=pc
+
+22:20:44	Warning: 	HTML file (14701 bytes) retransferred due to lack of cache: https://www.suu.kr/multi/multi_upload.php?device=pc
+
+22:20:53	Warning: 	HTML file (659700 bytes) retransferred due to lack of cache: https://www.suu.kr/test_img/
+
+22:21:15	Warning: 	HTML file (46446 bytes) retransferred due to lack of cache: https://www.suu.kr/bbs/board.php?bo_table=webzin_multi&wr_id=3
+
+22:21:22	Warning: 	HTML file (25262 bytes) retransferred due to lack of cache: https://www.suu.kr/bbs/board.php?bo_table=webzin&wr_id=14
+
+22:21:23	Warning: 	HTML file (64994 bytes) retransferred due to lack of cache: https://www.suu.kr/bbs/board.php?bo_table=webzin&wr_id=7
+
+22:21:27	Warning: 	HTML file (44546 bytes) retransferred due to lack of cache: https://www.suu.kr/bbs/board.php?bo_table=webzin&wr_id=3
+
+22:21:30	Error: 	"Not Found" (404) at link www.suu.kr/data/file/multy_upload/2083760193_sxXPDV30_b3a69e1234cf0b8fb8208760eea1e9eb43ebcd0f.gif (from www.suu.kr/bbs/board.php?bo_table=multy_upload&wr_id=144)
+
+22:21:31	Error: 	"Not Found" (404) at link www.suu.kr/data/file/multy_upload/2083760193_tb6zRCoL_e43d3edf2aa56d789e264b73532134fc8514f9d2.gif (from www.suu.kr/bbs/board.php?bo_table=multy_upload&wr_id=144)
+
+22:21:31	Error: 	"Not Found" (404) at link www.suu.kr/data/file/multy_upload/2083760193_G7j34rHO_541812276b6f47f911ab0a99b653a31b9f59a485.gif (from www.suu.kr/bbs/board.php?bo_table=multy_upload&wr_id=144)
+
+22:21:31	Error: 	"Not Found" (404) at link www.suu.kr/data/file/multy_upload/2083760193_w1B3OFRj_69b5ba2fb02580d62a96c503b64ef956d5ce386d.gif (from www.suu.kr/bbs/board.php?bo_table=multy_upload&wr_id=144)
+
+22:21:31	Error: 	"Not Found" (404) at link www.suu.kr/data/file/multy_upload/2083760193_3zL6GsgD_0a574f4ab09c8e6a62c8339365b08703001fa8a3.jpg (from www.suu.kr/bbs/board.php?bo_table=multy_upload&wr_id=144)
+
+22:21:32	Error: 	"Not Found" (404) at link www.suu.kr/data/file/multy_upload/2083760193_u04dm9zq_d760d18b96cc4161b58f1d3f3c0efc3e5cbe7a3c.gif (from www.suu.kr/bbs/board.php?bo_table=multy_upload&wr_id=144)
+
+22:21:32	Error: 	"Not Found" (404) at link www.suu.kr/data/file/multy_upload/2083760193_bwyjtefB_355d96b59518dd1b56f6e96258f4791bce5f046c.png (from www.suu.kr/bbs/board.php?bo_table=multy_upload&wr_id=144)
+
+22:21:32	Error: 	"Not Found" (404) at link www.suu.kr/data/file/multy_upload/2083760193_4tMUoqms_ff0357a1cdbb60e6d9c3cea3539f423e2525a5ff.png (from www.suu.kr/bbs/board.php?bo_table=multy_upload&wr_id=144)
+
+22:21:33	Error: 	"Not Found" (404) at link www.suu.kr/data/file/multy_upload/2083760193_0ZzKm2gw_b27c342af7a7e2caac95f762312bb136bf380ee7.png (from www.suu.kr/bbs/board.php?bo_table=multy_upload&wr_id=144)
+
+22:21:33	Error: 	"Not Found" (404) at link www.suu.kr/data/file/multy_upload/2083760193_UWMwZGpK_da777cc6020ea8a2315163d7e8be9fa9e022eec9.png (from www.suu.kr/bbs/board.php?bo_table=multy_upload&wr_id=144)
+
+22:21:33	Error: 	"Not Found" (404) at link www.suu.kr/data/file/multy_upload/2083760193_nRp4J7Vi_cd45c4899d3ba51bef244bacd76b4a13a5c8364c.gif (from www.suu.kr/bbs/board.php?bo_table=multy_upload&wr_id=144)
+
+22:21:33	Error: 	"Not Found" (404) at link www.suu.kr/data/file/multy_upload/2083760193_0FGUgnvl_c91c6c1006a78c40880573cbb3ea53bcc17543e5.gif (from www.suu.kr/bbs/board.php?bo_table=multy_upload&wr_id=144)
+
+22:21:34	Error: 	"Not Found" (404) at link www.suu.kr/data/file/multy_upload/2083760193_nzQEu6UV_deb1341250b3243d89880c7f1b88df3f4da236d8.gif (from www.suu.kr/bbs/board.php?bo_table=multy_upload&wr_id=144)
+
+22:21:34	Error: 	"Not Found" (404) at link www.suu.kr/data/file/multy_upload/2083760193_on0wx3Oy_a8c7b83a6473b79478cd79f8b93bcb085b2967ce.gif (from www.suu.kr/bbs/board.php?bo_table=multy_upload&wr_id=144)
+
+22:21:34	Error: 	"Not Found" (404) at link www.suu.kr/data/file/multy_upload/2083760193_Xf3dYrh5_f240d853e19d6efa765f10cefa86488499c0a832.png (from www.suu.kr/bbs/board.php?bo_table=multy_upload&wr_id=144)
+
+22:21:34	Error: 	"Not Found" (404) at link www.suu.kr/data/file/multy_upload/2083760193_JkNlbLyZ_19a74a980df3c58f8b4e03021ad99813f36bac20.gif (from www.suu.kr/bbs/board.php?bo_table=multy_upload&wr_id=144)
+
+22:21:35	Error: 	"Not Found" (404) at link www.suu.kr/data/file/multy_upload/2083760193_cND8QTxX_87ef85039f9206b2cd20343258e704dd54f36e4d.png (from www.suu.kr/bbs/board.php?bo_table=multy_upload&wr_id=144)
+
+22:21:35	Error: 	"Not Found" (404) at link www.suu.kr/data/file/multy_upload/2083760193_LDNWnpkq_18562571b1a57eed544ab6d5e76fad8ee38b53a7.png (from www.suu.kr/bbs/board.php?bo_table=multy_upload&wr_id=144)
+
+22:21:35	Error: 	"Not Found" (404) at link www.suu.kr/data/file/multy_upload/2083760193_ZOowE0HU_b7203fc1c4c2517cfe280984c296ea55604bd368.gif (from www.suu.kr/bbs/board.php?bo_table=multy_upload&wr_id=144)
+
+22:21:35	Error: 	"Not Found" (404) at link www.suu.kr/data/file/multy_upload/2083760193_cDifGPCL_d12ea51328c66f231d0e9eb97b77f7d47abf824d.png (from www.suu.kr/bbs/board.php?bo_table=multy_upload&wr_id=144)
+
+22:21:36	Error: 	"Not Found" (404) at link www.suu.kr/data/file/multy_upload/3529552207_Oz9kDwCs_92c29874d2b8dfbecd1c9bf7e64e37eb73a21b0b.jpg (from www.suu.kr/bbs/board.php?bo_table=multy_upload&wr_id=142)
+
+22:21:36	Error: 	"Not Found" (404) at link www.suu.kr/data/file/multy_upload/3529552207_mF8LrCu1_108154a3048048aa859672dd140d05806eb572bd.jpg (from www.suu.kr/bbs/board.php?bo_table=multy_upload&wr_id=142)
+
+22:21:36	Error: 	"Not Found" (404) at link www.suu.kr/data/file/multy_upload/3529552207_jPyOV1ZF_e56e6327283948072190e83e924b6ac5eaf1e7d4.jpg (from www.suu.kr/bbs/board.php?bo_table=multy_upload&wr_id=142)
+
+22:21:36	Warning: 	HTML file (3931 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=multi_200101&fn=2000880543_QUj4rgwG_920814.jpg
+
+22:21:37	Warning: 	HTML file (3931 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=multi_200101&fn=2000880543_KIkuYfpv_a82c3c.jpg
+
+22:21:37	Warning: 	HTML file (3931 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=multi_200101&fn=2000880543_43jiRMVX_ab8d7b.jpg
+
+22:21:38	Warning: 	HTML file (3933 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=multi_200101&fn=2000880543_jqbyoEQA_489653.jpg
+
+22:21:39	Warning: 	HTML file (3931 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=multi_200101&fn=2000880543_w2yLV0ZS_b9341a.jpg
+
+22:21:39	Warning: 	HTML file (3931 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=multi_200101&fn=2000880543_wmpEarig_d44edc.jpg
+
+22:21:40	Warning: 	HTML file (3933 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=multi_200101&fn=2000880543_qbUN15HJ_e304d1.jpg
+
+22:21:40	Warning: 	HTML file (3931 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=multi_200101&fn=2000880543_qcg6OTiw_f8e503.jpg
+
+22:21:40	Warning: 	HTML file (3931 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=multi_200101&fn=2000880543_LTQm7dE8_70bad1.jpg
+
+22:21:41	Warning: 	HTML file (3931 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=multi_200101&fn=2000880543_4wG7cWk2_4555a2.jpg
+
+22:21:41	Warning: 	HTML file (3931 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=multi_200101&fn=2000880543_YNWT9g1u_b98528.jpg
+
+22:21:41	Warning: 	HTML file (3931 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=multi_200101&fn=2000880543_raYECN6j_f86ec7.jpg
+
+22:21:42	Warning: 	HTML file (27972 bytes) retransferred due to lack of cache: www.suu.kr/bbs/board.php?bo_table=multi_200101&wr_id=3&device=pc
+
+22:21:42	Warning: 	HTML file (3931 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=multi_200101&fn=2000880543_dzFYDTSR_c6efc8.jpg
+
+22:21:43	Warning: 	HTML file (3931 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=multi_200101&fn=2000880543_VOEDlHPi_5a968f.jpg
+
+22:21:43	Warning: 	HTML file (3931 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=multi_200101&fn=2000880543_qEMgSCjl_73727e.jpg
+
+22:21:43	Warning: 	HTML file (3931 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=multi_200101&fn=2000880543_ZzVDrLea_6bfc1f.jpg
+
+22:21:44	Warning: 	HTML file (3931 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=multi_200101&fn=2000880543_gjmHfDL4_d23ccb.jpg
+
+22:21:44	Warning: 	HTML file (3931 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=multi_200101&fn=2000880543_Gb60yW1u_cd041b.jpg
+
+22:21:44	Warning: 	HTML file (3931 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=multi_200101&fn=2000880543_YtJnMoi4_7644be.jpg
+
+22:21:45	Warning: 	HTML file (26694 bytes) retransferred due to lack of cache: www.suu.kr/bbs/board.php?bo_table=multi_200101&wr_id=2&device=pc
+
+22:21:46	Warning: 	HTML file (3994 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=grid&fn=2000880543_FfvEMcW1_c8fc5b8bf5f6579a140be3ff875323f6fe747a5c.jpg
+
+22:21:46	Warning: 	HTML file (3994 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=grid&fn=2000880543_5A09BaJI_a34475b777d287ce44ec527b73cb580a37d5813d.jpg
+
+22:21:46	Warning: 	HTML file (3994 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=grid&fn=2000880543_nT4gxVAs_63e28b1f9ac0157c699c99dc57b47836fc8f0f99.jpg
+
+22:21:47	Warning: 	HTML file (21807 bytes) retransferred due to lack of cache: www.suu.kr/bbs/board.php?bo_table=grid&wr_id=5&device=pc
+
+22:21:48	Warning: 	HTML file (3975 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=grid&fn=2000880543_GVFu7dpL_0aff99d37db3073d436a799da07ca62e4cb38953.png
+
+22:21:48	Warning: 	HTML file (3975 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=grid&fn=2000880543_R4e0cM5J_a9687841ba679560e15b54c7d80544b598dc3173.png
+
+22:21:48	Warning: 	HTML file (22499 bytes) retransferred due to lack of cache: www.suu.kr/bbs/board.php?bo_table=grid&wr_id=2&device=pc
+
+22:21:49	Warning: 	HTML file (3992 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=grid&fn=2000880543_FuPa2okR_d631152770989c696547c18b9e050f04fab16e3c.JPG
+
+22:21:49	Warning: 	HTML file (3992 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=grid&fn=2000880543_pNgZoEwe_ddbc0a8a74c412db4a0cbbaff28bf80ad3b1cf0e.JPG
+
+22:21:49	Warning: 	HTML file (3992 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=grid&fn=2000880543_Q0EUYeHk_be83775c06dd49c5d6df7a2f96f13f94d5770294.JPG
+
+22:21:50	Warning: 	HTML file (3992 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=grid&fn=2000880543_EnakUmI9_c43e2de00dab75ecfeeee2036886689c1d2e3a71.JPG
+
+22:21:50	Warning: 	HTML file (3992 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=grid&fn=2000880543_9TwWxQbP_a72f54dd4778019014cf823a76fbb1274645a1a2.JPG
+
+22:21:50	Warning: 	HTML file (3992 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=grid&fn=2000880543_Nrx3Dzpw_4644fa471795fea2ee3b1af02c2b481c6092c893.JPG
+
+22:21:51	Warning: 	HTML file (3992 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=grid&fn=2000880543_6KIGdFpR_e18a5ff34bcc344215072894a92a4f0ee5abbf40.JPG
+
+22:21:51	Warning: 	HTML file (3992 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=grid&fn=2000880543_iKy0kX7D_5180c1a279dfa0f0128108f7bb31e3656db4a3a0.JPG
+
+22:21:51	Warning: 	HTML file (3992 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=grid&fn=2000880543_lu4RhSwG_1ddcf52e70435708a5105e907fd6437032c68ee5.JPG
+
+22:21:52	Warning: 	HTML file (3992 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=grid&fn=2000880543_2r0hqQSP_597200bddb6da9171b92a521ed84c838937b49a1.JPG
+
+22:21:52	Warning: 	HTML file (3992 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=grid&fn=2000880543_ShZzIP76_f45c2b7a784328a9946ce4d58b0f7178fa3f4570.JPG
+
+22:21:52	Warning: 	HTML file (3992 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=grid&fn=2000880543_rqd1i6Gk_061f777e7b0486027a6ae424e3d952aa1d173f81.JPG
+
+22:21:53	Warning: 	HTML file (3992 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=grid&fn=2000880543_LumC1gaA_cfe977233ea05e0b3547d6ebaa5366dea49c147d.JPG
+
+22:21:53	Warning: 	HTML file (3992 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=grid&fn=2000880543_TwgxflB4_bccaf59ce4ca26134b2c19c1779dbf98d6166f66.JPG
+
+22:21:53	Warning: 	HTML file (3994 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=grid&fn=2000880543_a2mZ0Acq_9212b2e1e6d917e1ae02150514a4d95449fe8410.JPG
+
+22:21:54	Warning: 	HTML file (3992 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=grid&fn=2000880543_R3fCGFEe_b36bae27f1ef18800f22d3b611b2f20b06b8a77c.JPG
+
+22:21:54	Warning: 	HTML file (3992 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=grid&fn=2000880543_cRgnEVJd_cb27b1b6c237e5dc40fee0d4e1ab78e6a8057e34.JPG
+
+22:21:54	Warning: 	HTML file (2772 bytes) retransferred due to lack of cache: www.suu.kr/bbs/download.php?bo_table=grid&wr_id=1&no=19
+
+22:21:55	Error: 	"Not Found" (404) at link https://sir.kr/data/editor/2001/654777528_1578225249.1812.jpg (from www.suu.kr/bbs/board.php?bo_table=suu__humor&wr_id=67)
+
+22:21:55	Error: 	"Not Found" (404) at link https://sir.kr/data/editor/2001/982268670_1578236769.7746.gif (from www.suu.kr/bbs/board.php?bo_table=suu__humor&wr_id=66)
+
+22:21:55	Error: 	"Not Found" (404) at link https://sir.kr/data/editor/2001/2039967697_1578238985.5054.gif (from www.suu.kr/bbs/board.php?bo_table=suu__humor&wr_id=65)
+
+22:21:55	Error: 	"Not Found" (404) at link https://sir.kr/data/editor/2001/982268670_1578272421.4268.jpg (from www.suu.kr/bbs/board.php?bo_table=suu__humor&wr_id=64)
+
+22:21:55	Error: 	"Not Found" (404) at link https://sir.kr/data/editor/2001/417601237_1578274711.6632.jpg (from www.suu.kr/bbs/board.php?bo_table=suu__humor&wr_id=63)
+
+22:21:55	Error: 	"Not Found" (404) at link https://sir.kr/data/editor/2001/417601237_1578274718.3773.jpg (from www.suu.kr/bbs/board.php?bo_table=suu__humor&wr_id=63)
+
+22:21:55	Error: 	"Not Found" (404) at link https://sir.kr/data/editor/2001/417601237_1578274723.5612.jpg (from www.suu.kr/bbs/board.php?bo_table=suu__humor&wr_id=63)
+
+22:21:55	Warning: 	HTML file (18427 bytes) retransferred due to lack of cache: www.suu.kr/bbs/board.php?bo_table=multy_upload_cmt&page=
+
+22:21:55	Warning: 	HTML file (4032 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=multy_upload_cmt&fn=3658745722_E5OjbhYz_ec4ed1ad9ad5d0038a70a6e8283cc10866f4d0a4.jpg
+
+22:21:56	Warning: 	HTML file (4032 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=multy_upload_cmt&fn=3658745722_k15p0LMn_1e74be5831aee0da6f9577f6d462b71661d242f3.jpg
+
+22:21:56	Warning: 	HTML file (4032 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=multy_upload_cmt&fn=3658745722_Zwr1M8tc_1e6509d9f7e565f8974d1a3417a9a5fe8b2ef0b5.jpg
+
+22:21:57	Warning: 	HTML file (48907 bytes) retransferred due to lack of cache: www.suu.kr/bbs/board.php?bo_table=multy_upload_cmt&wr_id=7&c_id=8&w=c
+
+22:21:59	Warning: 	HTML file (4049 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=multy_upload_cmt&fn=2000880543_ZkO8AJLp_7cad85a274ccfe7c7d0f328e537d29c86f7c02f3.jpg
+
+22:21:59	Warning: 	HTML file (4049 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=multy_upload_cmt&fn=2000880543_CKo4HX2N_d9305dfa3c67453070643115a210ef2dd2ce6f55.jpg
+
+22:21:59	Warning: 	HTML file (4049 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=multy_upload_cmt&fn=2000880543_I3z5Bvso_1b11c65aed84428e1624dce1cb3c88ebaeca1329.jpg
+
+22:22:00	Warning: 	HTML file (4049 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=multy_upload_cmt&fn=2000880543_JACjYdFX_496d457869b4cb2ebfb1c018bbd70504c4c309b6.jpg
+
+22:22:00	Warning: 	HTML file (43479 bytes) retransferred due to lack of cache: www.suu.kr/bbs/board.php?bo_table=multy_upload_cmt&wr_id=1&c_id=2&w=c
+
+22:22:02	Warning: 	HTML file (65592 bytes) retransferred due to lack of cache: www.suu.kr/bbs/board.php?bo_table=webzin_multi&page=
+
+22:22:04	Warning: 	HTML file (4035 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=webzin_multi&fn=1039443489_XrFjtLu6_d665e9f5c5ae9f10cf0a79c7ed96c876ccabf662.JPG
+
+22:22:04	Warning: 	HTML file (4035 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=webzin_multi&fn=1039443489_7Ddarfjy_f732136c92e7475cfb110e5d79e663c945d54b50.JPG
+
+22:22:05	Warning: 	HTML file (27145 bytes) retransferred due to lack of cache: www.suu.kr/bbs/board.php?bo_table=webzin_multi&wr_id=12&device=pc
+
+22:22:05	Warning: 	HTML file (4016 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=webzin_multi&fn=3658745722_qkO7ufVS_4d8dafbcec764e6fc1bfb36f477bd799315b76c8.jpg
+
+22:22:06	Warning: 	HTML file (4016 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=webzin_multi&fn=3658745722_59VcLBXs_d35d6c08062576cf149e2436b062607f1be0e069.jpg
+
+22:22:06	Warning: 	HTML file (4016 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=webzin_multi&fn=3658745722_W7khYXpV_92e7799877ba19c7fe0f6e897dc52d531e8b54df.jpg
+
+22:22:07	Warning: 	HTML file (4016 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=webzin_multi&fn=3658745722_lIunqNOU_7762c829c29c7b7220ad8a804658807d84b28eed.jpg
+
+22:22:07	Warning: 	HTML file (4016 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=webzin_multi&fn=3658745722_jvtWyd4V_5da942adcaca78cfff66c8f10bd6b33ad48da153.jpg
+
+22:22:07	Warning: 	HTML file (4016 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=webzin_multi&fn=3658745722_sqViJIwH_03a8dce5f4202af193294bb5a766addcbfcbe532.jpg
+
+22:22:07	Warning: 	HTML file (4016 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=webzin_multi&fn=3658745722_l9V7TwYX_c85935cc77eda7d8f57ac54561c2b520b2fa76ac.jpg
+
+22:22:08	Warning: 	HTML file (4016 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=webzin_multi&fn=3658745722_8rD2QShY_6cfc89bd657ba10d16d56b796c18e2acbecc6e42.jpg
+
+22:22:08	Warning: 	HTML file (4016 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=webzin_multi&fn=3658745722_TmDVCqug_304b5f8df8e0d3d63801838e20012253b04a85c6.jpg
+
+22:22:08	Warning: 	HTML file (4016 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=webzin_multi&fn=3658745722_sSIQg2YL_90212bfd93b112b20961a64a14eea03a660f2230.jpg
+
+22:22:09	Warning: 	HTML file (27358 bytes) retransferred due to lack of cache: www.suu.kr/bbs/board.php?bo_table=webzin_multi&wr_id=10&device=pc
+
+22:22:10	Warning: 	HTML file (28435 bytes) retransferred due to lack of cache: www.suu.kr/bbs/board.php?bo_table=webzin_multi&wr_id=8&device=pc
+
+22:22:11	Warning: 	HTML file (16451 bytes) retransferred due to lack of cache: www.suu.kr/bbs/board.php?bo_table=free&wr_id=49&device=pc
+
+22:22:12	Warning: 	HTML file (16681 bytes) retransferred due to lack of cache: www.suu.kr/bbs/board.php?bo_table=free&wr_id=47&device=pc
+
+22:22:13	Warning: 	HTML file (3984 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=free&fn=3696229639_KXe30tbL_0025c5e84d8e81f2fc027338ca12ffc331711a1d.jpg
+
+22:22:13	Warning: 	HTML file (16777 bytes) retransferred due to lack of cache: www.suu.kr/bbs/board.php?bo_table=free&wr_id=46&device=pc
+
+22:22:13	Warning: 	HTML file (4001 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=free&fn=2000880543_McZkPNUn_c1d9b9cb5bb103a98a5888783f546b7d9c24f7d8.jpg
+
+22:22:14	Warning: 	HTML file (4001 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=free&fn=2000880543_Ep3x2uSN_e0647af823be1fd021b71a9ae3ac32344d40bcff.jpg
+
+22:22:14	Warning: 	HTML file (4001 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=free&fn=2000880543_kHaBwYAP_90a204b0ec44ad146222fe78c32561ca8224f444.jpg
+
+22:22:14	Warning: 	HTML file (4001 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=free&fn=2000880543_kOzuTqiF_3070191135682cc99b9a5adcbdedf990f12a89cd.jpg
+
+22:22:15	Warning: 	HTML file (4001 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=free&fn=2000880543_8ExuZoYq_2a0f6cde416e70f9527ead93937c2182c2419d5e.jpg
+
+22:22:15	Warning: 	HTML file (4001 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=free&fn=2000880543_oBkp9ZAK_9a795e5ecc6858313458b4c52f8be58111d3e481.jpg
+
+22:22:16	Warning: 	HTML file (4001 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=free&fn=2000880543_A1f9gGhs_17aee74d4493a7f97b5dd249fbdd4bb517d3011f.jpg
+
+22:22:16	Warning: 	HTML file (4001 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=free&fn=2000880543_jaUJnprk_99c0288a482c72d53361849869dda3d1f294ff1e.jpg
+
+22:22:16	Warning: 	HTML file (4001 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=free&fn=2000880543_UO2mXAyi_7a7a09b36502b5afa27313fac9cf347418e3893b.jpg
+
+22:22:16	Warning: 	HTML file (19517 bytes) retransferred due to lack of cache: www.suu.kr/bbs/board.php?bo_table=free&wr_id=44&device=pc
+
+22:22:17	Error: 	"Not Found" (404) at link www.suu.kr/data/file/webzin/2055219788_GXw8Icnu_10343c20eaceafa671e3f44a6e250607136d35e5.gif (from www.suu.kr/bbs/board.php?bo_table=webzin&wr_id=34)
+
+22:22:17	Warning: 	HTML file (26267 bytes) retransferred due to lack of cache: www.suu.kr/bbs/board.php?bo_table=webzin&wr_id=32&device=pc
+
+22:22:18	Warning: 	HTML file (25610 bytes) retransferred due to lack of cache: www.suu.kr/bbs/board.php?bo_table=webzin&wr_id=31&device=pc
+
+22:22:19	Warning: 	HTML file (4006 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=webzin&fn=991368978_lEdMr0Yn_d1bbfec96b5a8912640182622ecdf09cdd921cbe.jpg
+
+22:22:20	Warning: 	HTML file (4006 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=webzin&fn=991368978_yICZ3APb_518559a3570d9028701a30c89561ccfec8691e4d.jpg
+
+22:22:20	Warning: 	HTML file (4006 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=webzin&fn=991368978_EKbeV9w7_f04d11157596c383207da6688f5d60da50bdba17.jpg
+
+22:22:20	Warning: 	HTML file (4006 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=webzin&fn=991368978_sTxIJnqH_30c7c75202e57c126d10cde7a4d42b2f382de06e.jpg
+
+22:22:21	Warning: 	HTML file (4008 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=webzin&fn=991368978_r4wOvT3u_1d6122db3c8a1ca10aeadc4287307415a24c9ea5.jpg
+
+22:22:21	Warning: 	HTML file (4008 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=webzin&fn=991368978_wBdkrI0m_e27a4ec5931c830985904f183e3eae39f7a26d35.jpg
+
+22:22:21	Warning: 	HTML file (4008 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=webzin&fn=991368978_eL7Girdx_dabe780ffee0e0f691fb8366dfdd325d9dc61888.jpg
+
+22:22:22	Warning: 	HTML file (4008 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=webzin&fn=991368978_YFSTAOLl_d42d19767fd25e79157f24ca8edc1e35e6f67a04.jpg
+
+22:22:22	Warning: 	HTML file (4008 bytes) retransferred due to lack of cache: www.suu.kr/bbs/view_image.php?bo_table=webzin&fn=991368978_cAtk3H2a_e3ddede16f631eb2e477c7fb2902698879e04383.jpg
+
+22:22:22	Warning: 	HTML file (28147 bytes) retransferred due to lack of cache: www.suu.kr/bbs/board.php?bo_table=webzin&wr_id=29&device=pc
+
+22:22:23	Warning: 	HTML file (9568 bytes) retransferred due to lack of cache: www.suu.kr/bbs/board.php?bo_table=bk&office_no=4
+
+22:22:23	Warning: 	HTML file (28539 bytes) retransferred due to lack of cache: www.suu.kr/bbs/board.php?bo_table=webzin_multi_type_a&wr_id=8&device=pc
+
+22:22:25	Warning: 	HTML file (29155 bytes) retransferred due to lack of cache: www.suu.kr/bbs/board.php?bo_table=webzin_multi_type_a&wr_id=5&device=pc
+
+22:22:26	Warning: 	File not parsed, looks like binary: www.suu.kr/js/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 15 minutes 36 seconds : 1235 links scanned, 1321 files written (39150282 bytes overall) [23153159 bytes received at 24736 bytes/sec], 21917279 bytes transferred using HTTP compression in 976 files, ratio 23%, 4.9 requests per connection
+
+(37 errors, 126 warnings, 0 messages)
+
